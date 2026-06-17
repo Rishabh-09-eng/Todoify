@@ -26,3 +26,6 @@ A responsive Todo application built with React and Tailwind CSS.
 ```bash
 npm install
 npm run dev
+
+## Live Demo
+https://todoify-eight.vercel.app/
